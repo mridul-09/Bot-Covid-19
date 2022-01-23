@@ -3,4 +3,4 @@ It is an QnA bot through which user can interact in website. It provides informa
 
 # PROJECT https://qnabot.z13.web.core.windows.net/
 
-# YOUTUBE ILLSTRATION https://youtu.be/BfWM48qF--A
+# YOUTUBE ILLUSTRATION https://youtu.be/BfWM48qF--A
